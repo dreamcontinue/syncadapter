@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sync Adapter</string>
+
+    <string name="account_type">party.danyang.syncadapter</string>
+    <string name="account_auth">party.danyang.syncadapter.authenticator</string>
+    <string name="provider_auth">party.danyang.syncadapter.provider</string>
+</resources>
